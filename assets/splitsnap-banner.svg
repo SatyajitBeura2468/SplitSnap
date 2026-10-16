@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">SplitSnap — split the bill, not the friendship</title>
+  <desc id="d">A playful lavender and cream illustration of a bill, coins, and three friends splitting a payment.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6C3BFF"/><stop offset="1" stop-color="#4822C9"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf5"/><stop offset="1" stop-color="#ffe9c0"/></linearGradient>
+    <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe17a"/><stop offset="1" stop-color="#ffb400"/></linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <circle cx="1065" cy="73" r="110" fill="#fff" opacity=".06"/>
+  <circle cx="119" cy="306" r="150" fill="#fff" opacity=".05"/>
+  <g fill="#fff4e0" opacity=".8">
+    <path d="M83 45l5 14 14 5-14 5-5 14-5-14-14-5 14-5z"/>
+    <circle cx="545" cy="44" r="3"/><circle cx="682" cy="292" r="3"/><circle cx="1145" cy="230" r="3"/>
+    <path d="M1113 123l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+  </g>
+  <g transform="translate(690 34) rotate(-7 120 130)">
+    <rect x="18" y="16" width="188" height="260" rx="18" fill="#28155d" opacity=".38"/>
+    <rect x="0" y="0" width="188" height="260" rx="18" fill="url(#paper)" stroke="#1D1233" stroke-width="5"/>
+    <rect x="22" y="20" width="62" height="8" rx="4" fill="#ffb400"/>
+    <text x="22" y="56" fill="#1D1233" font-size="24" font-weight="800" font-family="system-ui,sans-serif">THE BILL</text>
+    <path d="M22 72H164" stroke="#d9d0e9" stroke-width="3" stroke-dasharray="5 6"/>
+    <g fill="#8b80a7"><rect x="22" y="91" width="78" height="7" rx="3.5"/><rect x="22" y="113" width="105" height="7" rx="3.5"/><rect x="22" y="135" width="63" height="7" rx="3.5"/></g>
+    <g fill="#1D1233" font-family="system-ui,sans-serif" font-weight="800"><text x="22" y="181" font-size="16">YOUR SHARE</text><text x="22" y="217" font-size="32">₹250</text></g>
+    <rect x="22" y="231" width="107" height="16" rx="8" fill="#6c3bff"/>
+    <path d="M140 234l7 7 16-18" fill="none" stroke="#0e9f5f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(925 158)">
+    <ellipse cx="70" cy="115" rx="120" ry="17" fill="#1d1233" opacity=".25"/>
+    <g transform="translate(0 0)">
+      <circle cx="30" cy="28" r="28" fill="#ffcf9f" stroke="#1D1233" stroke-width="4"/>
+      <path d="M5 25q0-31 26-31 25 0 28 27l-11-11-9 3-11-8-13 11z" fill="#402655"/>
+      <circle cx="21" cy="29" r="2.5" fill="#1D1233"/><circle cx="39" cy="29" r="2.5" fill="#1D1233"/>
+      <path d="M23 40q7 6 14 0" fill="none" stroke="#1D1233" stroke-width="3" stroke-linecap="round"/>
+      <path d="M2 70q28-22 56 0l9 38H-5z" fill="#ffb400" stroke="#1D1233" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(75 8)">
+      <circle cx="30" cy="28" r="28" fill="#a8e5d0" stroke="#1D1233" stroke-width="4"/>
+      <path d="M3 25Q8-7 33 0q23 3 26 30l-12-9-13-12-15 13z" fill="#1D1233"/>
+      <circle cx="21" cy="29" r="2.5" fill="#1D1233"/><circle cx="39" cy="29" r="2.5" fill="#1D1233"/>
+      <path d="M23 40q7 6 14 0" fill="none" stroke="#1D1233" stroke-width="3" stroke-linecap="round"/>
+      <path d="M1 70q29-22 57 0l9 38H-6z" fill="#ff9eb5" stroke="#1D1233" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(43 58)">
+      <circle cx="0" cy="0" r="25" fill="#9ec5ff" stroke="#1D1233" stroke-width="4"/>
+      <circle cx="-8" cy="-2" r="2.4" fill="#1D1233"/><circle cx="8" cy="-2" r="2.4" fill="#1D1233"/>
+      <path d="M-7 8q7 6 14 0" fill="none" stroke="#1D1233" stroke-width="3" stroke-linecap="round"/>
+      <path d="M-24 39q24-21 48 0l8 36h-64z" fill="#c9a8ff" stroke="#1D1233" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g transform="translate(450 211)">
+    <circle cx="0" cy="0" r="43" fill="url(#coin)" stroke="#1D1233" stroke-width="5"/>
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#1D1233" stroke-width="3" opacity=".6"/>
+    <text x="0" y="11" text-anchor="middle" font-family="system-ui,sans-serif" font-size="34" font-weight="800" fill="#1D1233">₹</text>
+  </g>
+  <g transform="translate(545 262) rotate(12)">
+    <rect x="-49" y="-20" width="98" height="40" rx="20" fill="#ff9eb5" stroke="#1D1233" stroke-width="4"/>
+    <text x="0" y="7" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" font-weight="800" fill="#1D1233">÷ 3</text>
+  </g>
+  <g fill="#fff4e0" font-family="system-ui,sans-serif">
+    <text x="68" y="122" font-size="18" font-weight="700" opacity=".85" letter-spacing="4">THE FRIENDSHIP-SAFE CALCULATOR</text>
+    <text x="64" y="187" font-size="64" font-weight="900" letter-spacing="-3">Split<tspan fill="#ffb400">Snap</tspan></text>
+    <text x="69" y="229" font-size="25" font-weight="700">Split the bill.</text>
+    <text x="69" y="261" font-size="25" font-weight="700">Not the friendship.</text>
+    <text x="69" y="304" font-size="15" opacity=".75">QUICK SPLITS · GROUPS · SMART SETTLE-UPS</text>
+  </g>
+</svg>
